@@ -1,1 +1,2 @@
 # ganSeismicDenoise
+Pytorch实现
